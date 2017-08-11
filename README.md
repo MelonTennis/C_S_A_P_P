@@ -2,16 +2,27 @@
 C 深 S 入 A 了 P 解 P 计 C 算 S 机 A 系 P 统 P
 
 深 Introduction
+
 入
+
 了 to
+
 解
+
 计 Computer
+
 算
+
 机 System
+
 系
+
 统 CSAPP
 
 感谢[小土刀](http://wdxtub.com/2016/04/16/thin-csapp-0/)前辈
+
+-------------------
+
 
 I take this class within summer intern, somehow making my life, very full ∠( ᐛ 」∠)＿
 
